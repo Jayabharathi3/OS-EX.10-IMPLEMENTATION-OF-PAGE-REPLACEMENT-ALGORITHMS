@@ -66,6 +66,10 @@ int main()
 ## RESULT:
 Thus the implementation of FIFO page replacement is successfully executed.
 
+
+
+
+
 ## LEAST RECENTLY USED (LRU)
 
 ## AIM:
@@ -168,6 +172,9 @@ main()
 
 ## RESULT:
 Thus the implementation of LRU page replacement is successfully executed.
+
+
+
 
 
 ## OPTIMAL PAGE REPLACEMENT (OPR)
