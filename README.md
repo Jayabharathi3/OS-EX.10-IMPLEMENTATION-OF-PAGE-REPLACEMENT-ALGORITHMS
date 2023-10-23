@@ -22,7 +22,7 @@ page.
 10. Stop the program
 
 ## PROGRAM:
-```
+```C
 #include<stdio.h>
 int main()
 {
@@ -86,7 +86,7 @@ has not been used for the longest period oftime.
 10. Stop the program.
 
 ## PROGRAM:
-```
+```C
 #include<stdio.h>
 main()
 {
@@ -187,7 +187,7 @@ in the memory with new page,
 7. Stop the program.
 
 ## PROGRAM:
-```
+```C
 
 #include<stdio.h>
 int main()
